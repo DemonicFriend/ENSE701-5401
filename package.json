@@ -1,0 +1,19 @@
+{
+  "name": "ense701-5401",
+  "version": "1.0.0",
+  "description": "AUT's paper ENSE701, Assignment 2",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DemonicFriend/ENSE701-5401.git"
+  },
+  "author": "Team 5401",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DemonicFriend/ENSE701-5401/issues"
+  },
+  "homepage": "https://github.com/DemonicFriend/ENSE701-5401#readme"
+}
